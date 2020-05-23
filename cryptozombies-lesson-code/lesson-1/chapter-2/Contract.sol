@@ -1,6 +1,6 @@
 
 pragma solidity ^0.4.25;
-
+// test di cazz
       contract ZombieFactory {
 
           uint dnaDigits = 16;
