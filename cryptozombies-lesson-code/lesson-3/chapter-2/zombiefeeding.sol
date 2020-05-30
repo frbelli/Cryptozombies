@@ -17,7 +17,7 @@ contract KittyInterface {
   );
 }
 
-contract ZombieFeeding is ZombieFactory {
+contract ZombieFeeding is ZombieFactory {  // Eredita da ZombieFactory
 
   KittyInterface kittyContract;
 
